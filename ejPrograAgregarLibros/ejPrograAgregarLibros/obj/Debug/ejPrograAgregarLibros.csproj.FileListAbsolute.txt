@@ -1,0 +1,12 @@
+C:\Users\Ces\source\repos\ejPrograAgregarLibros\ejPrograAgregarLibros\bin\Debug\ejPrograAgregarLibros.exe.config
+C:\Users\Ces\source\repos\ejPrograAgregarLibros\ejPrograAgregarLibros\bin\Debug\ejPrograAgregarLibros.exe
+C:\Users\Ces\source\repos\ejPrograAgregarLibros\ejPrograAgregarLibros\bin\Debug\ejPrograAgregarLibros.pdb
+C:\Users\Ces\source\repos\ejPrograAgregarLibros\ejPrograAgregarLibros\obj\Debug\ejPrograAgregarLibros.csproj.AssemblyReference.cache
+C:\Users\Ces\source\repos\ejPrograAgregarLibros\ejPrograAgregarLibros\obj\Debug\ejPrograAgregarLibros.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ces\source\repos\ejPrograAgregarLibros\ejPrograAgregarLibros\obj\Debug\ejPrograAgregarLibros.Form1.resources
+C:\Users\Ces\source\repos\ejPrograAgregarLibros\ejPrograAgregarLibros\obj\Debug\ejPrograAgregarLibros.Properties.Resources.resources
+C:\Users\Ces\source\repos\ejPrograAgregarLibros\ejPrograAgregarLibros\obj\Debug\ejPrograAgregarLibros.csproj.GenerateResource.cache
+C:\Users\Ces\source\repos\ejPrograAgregarLibros\ejPrograAgregarLibros\obj\Debug\ejPrograAgregarLibros.csproj.CoreCompileInputs.cache
+C:\Users\Ces\source\repos\ejPrograAgregarLibros\ejPrograAgregarLibros\obj\Debug\ejPrograAgregarLibros.exe
+C:\Users\Ces\source\repos\ejPrograAgregarLibros\ejPrograAgregarLibros\obj\Debug\ejPrograAgregarLibros.pdb
+C:\Users\Ces\source\repos\ejPrograAgregarLibros\ejPrograAgregarLibros\obj\Debug\ejPrograAgregarLibros.Form2.resources
